@@ -17,7 +17,7 @@ Resized to 32×32
 Normalized pixel values
 Data augmentation (rotation, shift, shear, zoom, and horizontal flip)
 
-Model Architecture 
+Model Architecture     
 We implemented and optimized several CNN architectures using TensorFlow and Keras, including:
 - A baseline CNN with ReLU activation
 - An optimized CNN with batch normalization, dropout, and global average pooling

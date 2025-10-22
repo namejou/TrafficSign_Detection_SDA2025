@@ -7,7 +7,7 @@ Project Overview
 The goal of this project is to develop a robust and accurate model capable of recognizing and classifying traffic signs from images.
 We used the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains over 50,000 labeled images across 43 classes.
 
-Dataset  
+Dataset    
 Source: GTSRB Dataset on Kaggle
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign 
 Classes: 43 types of traffic signs
@@ -17,7 +17,7 @@ Resized to 32×32
 Normalized pixel values
 Data augmentation (rotation, shift, shear, zoom, and horizontal flip)
 
-Model Architecture
+Model Architecture 
 We implemented and optimized several CNN architectures using TensorFlow and Keras, including:
 - A baseline CNN with ReLU activation
 - An optimized CNN with batch normalization, dropout, and global average pooling

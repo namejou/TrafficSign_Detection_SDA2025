@@ -1,13 +1,13 @@
 # Traffic Sign Classification Using Deep Learning
 University project Sorbonne Data Analytics
 
-This project focuses on the recognition and classification of traffic signs using Convolutional Neural Networks (CNNs). Accurate traffic sign recognition is a key component of autonomous driving systems, enabling vehicles to perceive their environment and make informed decisions.
-
-Project Overview
+This project focuses on the recognition and classification of traffic signs using Convolutional Neural Networks (CNNs). Accurate traffic sign recognition is a key component of autonomous driving systems, enabling vehicles to perceive their environment and make informed decisions.  
+ 
+Project Overview  
 The goal of this project is to develop a robust and accurate model capable of recognizing and classifying traffic signs from images.
 We used the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains over 50,000 labeled images across 43 classes.
 
-Dataset
+Dataset  
 Source: GTSRB Dataset on Kaggle
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign 
 Classes: 43 types of traffic signs
